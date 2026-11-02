@@ -1,4 +1,4 @@
-// Problem Massive Card Game - https://open.kattis.com/problems/massivecardgame
+//Problem Massive Card Game - https://open.kattis.com/problems/massivecardgame
 #include <iostream>
 #include <algorithm>
 #include <vector>
